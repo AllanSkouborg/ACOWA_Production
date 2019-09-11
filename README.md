@@ -71,9 +71,13 @@ Run:
 * python3.7 cpd.py ResultsFlow/ST003_intervals.csv 1
 
 [1] J. Bai. Estimating multiple breaks one at a time. Econometric Theory, 13(3):315–352, 1997.
+
 [2] P. Fryzlewicz. Wild binary segmentation for multiple change-point detection. The Annals of Statistics, 42(6):2243–2281, 2014. doi:10.1214/14-AOS1245.
+
 [3] Piotr Fryzlewicz. Unbalanced Haar Technique for Nonparametric Function Estimation. Journal of the American Statistical Association, 102(480):1318–1327, 2007. doi:10.1198/016214507000000860.
+
 [4] E. Keogh, S. Chu, D. Hart, and M. Pazzani. An online algorithm for segmenting time series. In Proceedings of the IEEE International Conference on Data Mining (ICDM), 289–296. 2001.
+
 [5] D. Kifer, Shai Ben-David, and Johannes Gehrke. Detecting change in data streams. In VLDB, 2004
 
 === packages ===
