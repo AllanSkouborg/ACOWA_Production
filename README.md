@@ -83,3 +83,9 @@ Run:
 * numpy
 * ruptures 
 
+=== how to use ===
+
+Run scripts in the following order:
+* flowcalc.py
+* ma.py
+* cpd.py
